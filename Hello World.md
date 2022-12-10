@@ -1,3 +1,3 @@
 Hello World!
 
-![images/hello.svg]
+![](images/hello.svg)
